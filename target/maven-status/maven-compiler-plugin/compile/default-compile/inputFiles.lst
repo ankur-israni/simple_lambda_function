@@ -1,3 +1,8 @@
 /backup/S_N/cloud/aws/workspace/simple_lambda_function/src/main/java/com/ankur/service/EmployeeService.java
+/backup/S_N/cloud/aws/workspace/simple_lambda_function/src/main/java/com/ankur/lambda/book/BookAllLambdaHandler.java
+/backup/S_N/cloud/aws/workspace/simple_lambda_function/src/main/java/com/ankur/lambda/book/BookAddLambdaHandler.java
+/backup/S_N/cloud/aws/workspace/simple_lambda_function/src/main/java/com/ankur/service/BookService.java
+/backup/S_N/cloud/aws/workspace/simple_lambda_function/src/main/java/com/ankur/domain/Status.java
 /backup/S_N/cloud/aws/workspace/simple_lambda_function/src/main/java/com/ankur/domain/Employee.java
-/backup/S_N/cloud/aws/workspace/simple_lambda_function/src/main/java/com/ankur/lambda/EmployeeLambda.java
+/backup/S_N/cloud/aws/workspace/simple_lambda_function/src/main/java/com/ankur/domain/Book.java
+/backup/S_N/cloud/aws/workspace/simple_lambda_function/src/main/java/com/ankur/lambda/employee/EmployeeFindByIdLambdaHandler.java
